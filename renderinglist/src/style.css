@@ -31,3 +31,6 @@ code {
   content: '';
   display: table;
 }
+.Board{
+  margin: 2rem;
+}
